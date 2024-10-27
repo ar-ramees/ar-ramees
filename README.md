@@ -42,9 +42,19 @@ Ask me about anything, I love to answer!
 
 <h2>⭐ | Github Stats </h2>
 
+<!--
 <div align="center">
   <a href="https://github.com/ar-ramees">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ar-          ramees&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">    
+        <img  alt="ar-ramees's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ar-ramees?cardType=level&preferLogin=false" />  
+      </a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=compact&langs_count=7&theme=default"/>
   </a>
 </div>
+-->
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ar-ramees?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=compact)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=donut)](https://github.com/ar-ramees/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=donut-vertical)](https://github.com/ar-ramees/github-readme-stats)-->
+
