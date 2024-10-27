@@ -1,4 +1,7 @@
+<!--
 <div class="tenor-gif-embed" data-postid="16447531" data-share-method="host" data-aspect-ratio="1.23552" data-width="100%"><a href="https://tenor.com/view/qoobee-tired-blushing-ashamed-bashful-gif-16447531">Qoobee Tired Sticker</a>from <a href="https://tenor.com/search/qoobee-stickers">Qoobee Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+-->
+
 ## Hi there 👋
 ## I'm [Ramees AR][homepage]
 
@@ -27,6 +30,7 @@ Here are some ideas to get you started:
 
 
 **About Me!**
+
 Fullstack Developer from Chennai. 
 I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 Ask me about anything, I love to answer!
