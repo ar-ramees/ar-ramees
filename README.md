@@ -54,13 +54,21 @@ Ask me about anything, I love to answer!
 -->
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ar-ramees?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=compact)]()
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=donut)](https://github.com/ar-ramees/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=donut-vertical)](https://github.com/ar-ramees/github-readme-stats)-->
 
-<h4 style="font-size: 12px">Tech stacks i work on</h4>
+<h2 style="font-size: 12px">Tech stacks</h2>
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/next%20js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> 
+<h3 style="font-size: 12px">Backend</h3>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=tsnode&logoColor=white" height="40"/><img src="https://img.shields.io/badge/NodeJs-5FA04E?style=flat&logo=node.js&logoColor=white" height="40"/><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/{REST:_API}-blue?style=flat&logo=axios&logoColor=white" height="40"/><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="40"/><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="40"/> 
+
+<h3 style="font-size: 12px">Frontend</h3>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" height="40"/><img src="https://img.shields.io/badge/ReactJs-20232A?style=flat&logo=react&logoColor=61DBFB" height="40"/> <img src="https://img.shields.io/badge/nextJs-000000?style=flat&logo=nextdotjs&logoColor=white" height="40"/><img src="https://img.shields.io/badge/React_Native-61DBFB?style=flat&logo=react&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" height="40"/> 
+
+<h3 style="font-size: 12px">Blockchain</h3>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"height="40"/><img src="https://img.shields.io/badge/Ethereum-white?style=flat&logo=ethereum&logoColor=3C3C3D"height="40"/> 
+
 
 <!--
 Model example to customize
