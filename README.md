@@ -16,7 +16,7 @@
 
 **About Me!**
 
-Fullstack Developer from Chennai. 
+Fullstack Developer. 
 I love building applications & discussing new product ideas.
 
 Reach out to me on [twitter][twitter] if you'd like to talk ✌️.  
@@ -60,15 +60,26 @@ Ask me about anything, I love to answer!
 
 <h2 style="font-size: 12px">Tech stacks</h2>
 
+<div>
 <h3 style="font-size: 12px">Backend</h3>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=tsnode&logoColor=white" height="40"/><img src="https://img.shields.io/badge/NodeJs-5FA04E?style=flat&logo=node.js&logoColor=white" height="40"/><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/{REST:_API}-blue?style=flat&logo=axios&logoColor=white" height="40"/><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="40"/><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="40"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=tsnode&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/NodeJs-5FA04E?style=flat&logo=node.js&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/{REST:_API}-blue?style=flat&logo=axios&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30" /> 
+</div>
 
-<h3 style="font-size: 12px">Frontend</h3>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" height="40"/><img src="https://img.shields.io/badge/ReactJs-20232A?style=flat&logo=react&logoColor=61DBFB" height="40"/> <img src="https://img.shields.io/badge/nextJs-000000?style=flat&logo=nextdotjs&logoColor=white" height="40"/><img src="https://img.shields.io/badge/React_Native-61DBFB?style=flat&logo=react&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" height="40"/> 
+<div>
+  <h3 style="font-size: 12px">Frontend</h3>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" height="30" /> <img src="https://img.shields.io/badge/ReactJs-20232A?style=flat&logo=react&logoColor=61DBFB" height="30" /> <img   src="https://img.shields.io/badge/nextJs-000000?style=flat&logo=nextdotjs&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/React_Native-61DBFB?style=flat&logo=react&logoColor=white" height="30" /> <img   src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" height="30"/> 
+</div>
 
-<h3 style="font-size: 12px">Blockchain</h3>
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"height="40"/><img src="https://img.shields.io/badge/Ethereum-white?style=flat&logo=ethereum&logoColor=3C3C3D"height="40"/> 
+<div>
+  <h3 style="font-size: 12px">Cloud</h3>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900" height="30" /> <img src="https://img.shields.io/badge/DigitalOcean-white?style=flat&logo=digitalocean&logoColor=0080FF" height="30" /> 
+</div>
 
+
+<div>
+  <h3 style="font-size: 12px">Blockchain</h3>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"height="30" /> <img src="https://img.shields.io/badge/Ethereum-white?style=flat&logo=ethereum&logoColor=3C3C3D"height="30" /> 
+</div>
 
 <!--
 Model example to customize
