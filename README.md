@@ -34,13 +34,15 @@ Ask me about anything, I love to answer!
 
 
 <h2>🔥| My contribution streak</h2>
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar-ramees#version3"/>
   </a>
 </p>
 
+<!--
 <h2>⭐ | Github Stats </h2>
+-->
 
 <!--
 <div align="center">
@@ -86,6 +88,7 @@ Model example to customize
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
 -->
 
-<summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/ar-ramees"><img src="https://github-profile-trophy.vercel.app/?username=ar-ramees&margin-w=5&theme=radical" alt="TopCodeBeast" /></a> </p>
+<br>
+<h2 style="font-size: 12px">🏆 Github Achievements</h2>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ar-ramees&margin-w=5&theme=radical" alt="TopCodeBeast" /></a> </p>
 
