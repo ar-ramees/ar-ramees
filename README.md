@@ -86,4 +86,6 @@ Model example to customize
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
 -->
 
+<summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/ar-ramees"><img src="https://github-profile-trophy.vercel.app/?username=ar-ramees&margin-w=5&theme=radical" alt="TopCodeBeast" /></a> </p>
 
