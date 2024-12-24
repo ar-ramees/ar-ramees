@@ -60,7 +60,7 @@ Ask me about anything, I love to answer!
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=donut)](https://github.com/ar-ramees/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=donut-vertical)](https://github.com/ar-ramees/github-readme-stats)-->
 
-<h2 style="font-size: 12px">Tech stacks</h2>
+<h2 style="font-size: 12px">⭐ Tech stacks</h2>
 
 <div>
 <h3 style="font-size: 12px">Backend</h3>
