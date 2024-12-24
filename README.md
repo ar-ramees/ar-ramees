@@ -64,7 +64,7 @@ Ask me about anything, I love to answer!
 
 <div>
 <h3 style="font-size: 12px">Backend</h3>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=tsnode&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/NodeJs-5FA04E?style=flat&logo=node.js&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/{REST:_API}-blue?style=flat&logo=axios&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30" /> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=tsnode&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/NodeJs-5FA04E?style=flat&logo=node.js&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/{REST:_API}-blue?style=flat&logo=axios&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30" /> 
 </div>
 
 <div>
