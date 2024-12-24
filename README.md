@@ -33,7 +33,7 @@ Ask me about anything, I love to answer!
 <br>
 
 
-<h2>🔥| My contribution streak</h2>
+<h2>🔥 My contribution streak</h2>
 <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar-ramees#version3"/>
