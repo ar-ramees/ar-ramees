@@ -90,5 +90,5 @@ Model example to customize
 
 <br>
 <h2 style="font-size: 12px">🏆 Github Achievements</h2>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ar-ramees&margin-w=3&theme=radical" alt="TopCodeBeast" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ar-ramees&margin-w=2&theme=radical" alt="TopCodeBeast" /></a> </p>
 
