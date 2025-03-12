@@ -70,7 +70,7 @@ Ask me about anything, I love to answer!
 <a href="https://github.com/ar-ramees">
   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ar-ramees&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/> -->
   <img alt="ar-ramees's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ar-ramees?cardType=level&preferLogin=true" />  
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ar-ramees&layout=compact&langs_count=8&theme=white-black"/>
+  <img height="200em" width="450em src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ar-ramees&layout=compact&langs_count=8&theme=white-black"/>
 </a>
 </p>
 <br/>
