@@ -29,22 +29,20 @@ Ask me about anything, I love to answer!
 
 [homepage]: https://www.linkedin.com/in/ar-ramees
 [twitter]: https://twitter.com/ramizz_ar
+</br>
 
-<br>
-
-
+<!--
 <h2>🔥 My contribution streak</h2>
 <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar-ramees#version3"/>
   </a>
-</p>
-
-<!--
-<h2>⭐ | Github Stats </h2>
+</p> 
 -->
 
 <!--
+<h2>⭐ | Github Stats </h2>
+
 <div align="center">
   <a href="https://github.com/ar-ramees">
       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">    
@@ -53,14 +51,33 @@ Ask me about anything, I love to answer!
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=compact&langs_count=7&theme=default"/>
   </a>
 </div>
--->
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ar-ramees?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=compact)]()
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=donut)](https://github.com/ar-ramees/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=donut-vertical)](https://github.com/ar-ramees/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=donut)](https://github.com/ar-ramees/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ramees&layout=donut-vertical)](https://github.com/ar-ramees/github-readme-stats)
+-->
 
-<h2 style="font-size: 12px">⭐ Tech stacks</h2>
+## 🔥 Github Analysis 
+<p align="left">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar-ramees#version3"/>
+  </a>
+</p>
+
+<!-- ![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ar-ramees&theme=radical&hide_border=true) <br/> -->
+<p>
+<a href="https://github.com/ar-ramees">
+  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ar-ramees&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/> -->
+  <img alt="ar-ramees's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ar-ramees?cardType=level&preferLogin=true" />  
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ar-ramees&layout=compact&langs_count=8&theme=white-black"/>
+</a>
+</p>
+<br/>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-ramees&" alt="neeraj" /></p> -->
+
+## ⭐ Tech Stacks
+<!-- <h2 style="font-size: 12px">⭐ Tech stacks</h2> -->
 
 <div>
 <h3 style="font-size: 12px">Backend</h3>
@@ -89,6 +106,11 @@ Model example to customize
 -->
 
 <br>
-<h2 style="font-size: 12px">🏆 Github Achievements</h2>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ar-ramees&margin-w=5&theme=radical" alt="TopCodeBeast" /></a> </p>
+<!-- <h2 style="font-size: 12px">🏆 Github Achievements</h2>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ar-ramees&margin-w=5&theme=radical" alt="TopCodeBeast" /></a> </p> -->
+
+## 🏆 Github Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ar-ramees&theme=darkhub">
+</p>
 
