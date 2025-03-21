@@ -61,8 +61,8 @@ Ask me about anything, I love to answer!
 ## 🔥 Github Analysis 
 <p align="left" >
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-ramees#version3"/>
-    <img height="180em" alt="ar-ramees's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ar-ramees?cardType=level&preferLogin=true" />  
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-ramees#version3"/>
+    <img height="160em" alt="ar-ramees's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ar-ramees?cardType=level&preferLogin=true" />  
   </a>
 </p>
 <p>
