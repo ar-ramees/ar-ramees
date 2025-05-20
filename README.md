@@ -19,6 +19,7 @@ Ask me about anything, I love to answer!
 📫 Email me at [ar.ramees.ar@gmail.com](mailto:ar.ramees.ar@gmail.com)
 
 **Socials**
+
 <a href="https://www.linkedin.com/in/ar-ramees/">
   <img align="left" alt="Ramees's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
