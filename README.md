@@ -4,7 +4,7 @@
 
 ## Hi 👋 I'm [Ramees AR][homepage]
 
-<br><br>
+<br>
 
 **About Me!**
 
@@ -26,6 +26,7 @@ I love building applications & discussing new product ideas.
   <img align="left" alt="Ramees's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
 </a>
 
+<br>
 
 [homepage]: https://www.linkedin.com/in/ar-ramees
 [twitter]: https://twitter.com/ramizz_ar
