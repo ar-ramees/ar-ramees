@@ -4,14 +4,6 @@
 
 ## Hi 👋 I'm [Ramees AR][homepage]
 
-<a href="https://www.linkedin.com/in/ar-ramees/">
-  <img align="left" alt="Ramees's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
-</a>
-
-<a href="https://x.com/ramizz_ar">
-  <img align="left" alt="Ramees's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
-</a>
-
 <br><br>
 
 **About Me!**
@@ -25,6 +17,15 @@ Ask me about anything, I love to answer!
 [![Twitter Follow](https://img.shields.io/twitter/follow/ramizz_ar_?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter]
 
 📫 Email me at [ar.ramees.ar@gmail.com](mailto:ar.ramees.ar@gmail.com)
+
+**Socials**
+<a href="https://www.linkedin.com/in/ar-ramees/">
+  <img align="left" alt="Ramees's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
+
+<a href="https://x.com/ramizz_ar">
+  <img align="left" alt="Ramees's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
+</a>
 
 
 [homepage]: https://www.linkedin.com/in/ar-ramees
