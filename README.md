@@ -11,8 +11,6 @@
 Fullstack Developer. 
 I love building applications & discussing new product ideas.
 
-Reach out to me on twitter if you'd like to talk ✌️.  
-Ask me about anything, I love to answer!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ramizz_ar_?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter]
 
