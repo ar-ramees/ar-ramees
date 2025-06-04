@@ -2,21 +2,20 @@
 <div class="tenor-gif-embed" data-postid="16447531" data-share-method="host" data-aspect-ratio="1.23552" data-width="100%"><a href="https://tenor.com/view/qoobee-tired-blushing-ashamed-bashful-gif-16447531">Qoobee Tired Sticker</a>from <a href="https://tenor.com/search/qoobee-stickers">Qoobee Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 -->
 
-## Hi 👋 I'm [Ramees AR][homepage]
+## Hi 👋  <br>I'm [Ramees AR][homepage]
 
 <br>
 
-**About Me!**
+<!--**About Me!**-->
 
 Fullstack Developer. 
 I love building applications & discussing new product ideas.
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ramizz_ar_?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter]
-
-📫 Email me at [ar.ramees.ar@gmail.com](mailto:ar.ramees.ar@gmail.com)
-
-**Socials**
+[![Twitter Follow](https://img.shields.io/twitter/follow/ramizz_ar?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter]
+[![Email Badge](https://img.shields.io/badge/Gmail-ar.ramees.ar-color?style=flat-square&logo=gmail&logoColor=white)][email]
+<!--📫 Email me at [ar.ramees.ar@gmail.com](mailto:ar.ramees.ar@gmail.com)-->
+<!--**Socials**
 
 <a href="https://www.linkedin.com/in/ar-ramees/">
   <img align="left" alt="Ramees's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
@@ -26,11 +25,10 @@ I love building applications & discussing new product ideas.
   <img align="left" alt="Ramees's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
 </a>
 
-<br>
-
+<br>-->
 [homepage]: https://www.linkedin.com/in/ar-ramees
 [twitter]: https://twitter.com/ramizz_ar
-</br>
+[email]: mailto:ar.ramees.ar@gmail.com
 
 <!--
 <h2>🔥 My contribution streak</h2>
