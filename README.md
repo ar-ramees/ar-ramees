@@ -72,8 +72,9 @@ I love building applications & discussing new product ideas.
 </a>
 </p> -->
 
+<!--
 ![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ar-ramees&theme=radical&hide_border=true)
-
+-->
 
 
 <br/>
