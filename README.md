@@ -111,8 +111,10 @@ Model example to customize
 <!-- <h2 style="font-size: 12px">🏆 Github Achievements</h2>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ar-ramees&margin-w=5&theme=radical" alt="TopCodeBeast" /></a> </p> -->
 
+<!--
 ## 🏆 Github Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ar-ramees&theme=darkhub">
 </p>
+-->
 
