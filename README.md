@@ -96,11 +96,12 @@ I love building applications & discussing new product ideas.
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900" height="25" /> <img src="https://img.shields.io/badge/DigitalOcean-white?style=flat&logo=digitalocean&logoColor=0080FF" height="25" /> 
 </div>
 
-
+<!--
 <div>
   <h3 style="font-size: 12px">Blockchain</h3>
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"height="25" /> <img src="https://img.shields.io/badge/Ethereum-white?style=flat&logo=ethereum&logoColor=3C3C3D"height="25" /> 
 </div>
+<!--
 
 <!--
 Model example to customize
